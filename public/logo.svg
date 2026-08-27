@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="108" viewBox="0 0 420 108" role="img" aria-labelledby="title desc">
+  <title id="title">D'Cofre Muebles</title>
+  <desc id="desc">Logotipo de D'Cofre Muebles</desc>
+  <rect width="108" height="108" rx="8" fill="#292524"/>
+  <path d="M26 36h56v10H36v16h38v10H36v16H26z" fill="#F4F1EA"/>
+  <path d="M48 26h12v56H48z" fill="#B7791F"/>
+  <text x="128" y="51" font-family="Georgia,serif" font-size="30" font-weight="700" fill="#292524">D'COFRE</text>
+  <text x="130" y="77" font-family="Arial,sans-serif" font-size="14" letter-spacing="5" fill="#78716C">MUEBLES</text>
+</svg>
